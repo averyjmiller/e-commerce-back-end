@@ -22,6 +22,7 @@ The back end for an e-commerce site which utilizes Express.js API configured to 
 4. Perform CRUD operations in an API platform such as Insomnia or Postman.
 
 Checkout the video below walking through the steps above to use this application.
+[E-Commerce-Back-End.webm](https://github.com/averyjmiller/e-commerce-back-end/assets/54604339/0e16b23d-99de-4c40-b392-2551ee2ba8a8)
 
 ## License
 This repository is covered under MIT License. For more information, check the `LICENSE` file.
